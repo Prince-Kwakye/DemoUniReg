@@ -43,4 +43,4 @@ DemoUniReg API is an ASP.NET Core application developed for managing student inf
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Prince Kwakye(https://github.com/Cybertron618)
+Prince Kwakye(https://github.com/Prince-Kwakye)
